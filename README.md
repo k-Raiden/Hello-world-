@@ -1,2 +1,3 @@
 # Hello-world-
-will keep work  on it 
+
+ This is my first projects in Git
